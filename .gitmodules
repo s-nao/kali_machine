@@ -1,0 +1,6 @@
+[submodule "tools/SecLists"]
+	path = tools/SecLists
+	url = git@github.com:s-nao/SecLists.git
+[submodule "tools/impacket"]
+	path = tools/impacket
+	url = git@github.com:s-nao/impacket.git
